@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="starbucks:war">
+    <output-path>$PROJECT_DIR$/starbucks/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>starbucks</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spring-boot-starter-parent-2.1.4.RELEASE.war">
+      <element id="artifact" artifact-name="starbucks:war exploded" />
+    </root>
+  </artifact>
+</component>

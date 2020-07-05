@@ -1,0 +1,32 @@
+
+a	java:S112Û"FDefine and throw a dedicated exception instead of using a generic one.(õÜ—ºşÿÿÿÿ
+p
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(óÎ³Ù
+[	java:S112ã"FDefine and throw a dedicated exception instead of using a generic one.(ìá¤
+
+^
+java:S1192î"GDefine a constant instead of duplicating this literal "price" 10 times.(øĞÛÉ
+a	java:S112±"FDefine and throw a dedicated exception instead of using a generic one.(õÜ—ºşÿÿÿÿ
+Z
+java:S1155À">Use isEmpty() to check whether the collection is empty or not.(ˆ¦ä·şÿÿÿÿ
+p
+java:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Äµ Ş
+w
+java:S1488ˆ"`Immediately return this expression instead of assigning it to the temporary variable "criteria".(¶Õ¯ì
+Z
+java:S1155Á">Use isEmpty() to check whether the collection is empty or not.(ŞÈ„­şÿÿÿÿ
+u
+java:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ó¾ÿÿÿÿÿ
+a	java:S112Ó"FDefine and throw a dedicated exception instead of using a generic one.(ÔÁñÍøÿÿÿÿ
+l
+java:S1192±"PDefine a constant instead of duplicating this literal " cannot be null" 4 times.(õÜ—ºşÿÿÿÿ
+h
+java:S1192ì"LDefine a constant instead of duplicating this literal "updateTime" 10 times.(¾£ü¨øÿÿÿÿ
+[	java:S112¹"FDefine and throw a dedicated exception instead of using a generic one.(ìá¤
+
+n
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏßÉe
+h
+java:S1192°"LDefine a constant instead of duplicating this literal "createTime" 10 times.(·í“°øÿÿÿÿ
+S
+java:S1155{">Use isEmpty() to check whether the collection is empty or not.(Á½¼s
