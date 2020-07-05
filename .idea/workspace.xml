@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1013be3-363c-42e0-8e35-f3cb18e5ff94" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="myspring" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="@Aspect" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository" />
+        <option name="mavenHome" value="E:/Maven" />
+        <option name="userSettingsFile" value="E:\Maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dIiUxJMFd76f9CP9anBTRgzUwp" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.33726418" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.myspring.customerservice.model" />
+      <recent name="com.myspring.startbucks.service" />
+      <recent name="com.myspring.startbucks.controller.request" />
+      <recent name="com.myspring.startbucks.model" />
+      <recent name="com.myspring.startbucks" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\myspring\customer-service\src\main\java\com\myspring\customerservice\support" />
+      <recent name="E:\Project\myspring\customer-service\src\main\java\com\myspring\customerservice\model" />
+      <recent name="E:\Project\myspring\starbucks\src\main\java\com\myspring\starbucks\config" />
+      <recent name="E:\Project\myspring\startbucks\src\main\java\com\myspring\startbucks\model" />
+      <recent name="E:\Project\myspring\startbucks\src\main\java\com\myspring\startbucks" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 2 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 2 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="starbucks" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Application.StarbucksApplication">
+    <configuration name="CustomerServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myspring.customerservice.CustomerServiceApplication" />
+      <module name="customer-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myspring.customerservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarbucksApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myspring.starbucks.StarbucksApplication" />
+      <module name="startbucks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myspring.starbucks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcApplicationTests.contextLoads (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spring.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.spring.jdbc.JdbcApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarbucksApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="starbucks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myspring.starbucks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myspring.starbucks" />
+      <option name="MAIN_CLASS_NAME" value="com.myspring.starbucks.StarbucksApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarbucksApplicationTests.playWithArtifacts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="starbucks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myspring.starbucks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myspring.starbucks" />
+      <option name="MAIN_CLASS_NAME" value="com.myspring.starbucks.StarbucksApplicationTests" />
+      <option name="METHOD_NAME" value="playWithArtifacts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="customer-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myspring.customerservice.CustomerServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.jdbc.JdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myspring.jdbc.JdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyspringApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="myspring" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aaron.myspring.MyspringApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarbucksApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="starbucks" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myspring.starbucks.StarbucksApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartbucksApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="starbucks" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myspring.startbucks.StartbucksApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StarbucksApplication" />
+      <item itemvalue="Application.CustomerServiceApplication" />
+      <item itemvalue="JUnit.JdbcApplicationTests.contextLoads (1)" />
+      <item itemvalue="JUnit.StarbucksApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.StarbucksApplicationTests.playWithArtifacts" />
+      <item itemvalue="Spring Boot.JdbcApplication" />
+      <item itemvalue="Spring Boot.JdbcApplication (1)" />
+      <item itemvalue="Spring Boot.MyspringApplication" />
+      <item itemvalue="Spring Boot.StartbucksApplication" />
+      <item itemvalue="Spring Boot.StarbucksApplication" />
+      <item itemvalue="Spring Boot.CustomerServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StarbucksApplication" />
+        <item itemvalue="Application.CustomerServiceApplication" />
+        <item itemvalue="JUnit.StarbucksApplicationTests.playWithArtifacts" />
+        <item itemvalue="JUnit.StarbucksApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.JdbcApplicationTests.contextLoads (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1013be3-363c-42e0-8e35-f3cb18e5ff94" name="Default Changelist" comment="" />
+      <created>1592119027609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592119027609</updated>
+      <workItem from="1592119030684" duration="6020000" />
+      <workItem from="1592125127567" duration="2303000" />
+      <workItem from="1592225822848" duration="3098000" />
+      <workItem from="1592229118770" duration="2803000" />
+      <workItem from="1592309054047" duration="8058000" />
+      <workItem from="1592486379914" duration="3064000" />
+      <workItem from="1592627134117" duration="8610000" />
+      <workItem from="1592646057438" duration="27093000" />
+      <workItem from="1592750749177" duration="89000" />
+      <workItem from="1592783694038" duration="12305000" />
+      <workItem from="1592886107780" duration="577000" />
+      <workItem from="1592914322233" duration="1827000" />
+      <workItem from="1592923416324" duration="1083000" />
+      <workItem from="1592954348358" duration="1138000" />
+      <workItem from="1593042105547" duration="265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="0" key="#Notifications" timestamp="1592645878144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="0" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1592645878144" />
+    <state x="261" y="0" key="#Project_Structure" timestamp="1592749350972">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1592749350972" />
+    <state x="443" y="12" key="#StartbucksApplication" timestamp="1592667878421">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="443" y="12" key="#StartbucksApplication/0.0.1536.824@0.0.1536.824" timestamp="1592667878421" />
+    <state x="361" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592750771598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592750771598" />
+    <state x="530" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1592833627001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592833627001" />
+    <state x="574" y="146" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1592748933064">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="146" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1592748933064" />
+    <state x="436" y="159" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592749254001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="159" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1592749254001" />
+    <state x="512" y="37" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1592709368786">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="512" y="37" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592709368786" />
+    <state x="264" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592725084384">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="264" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1592725084384" />
+    <state x="436" y="105" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592627598557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="105" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1592627598557" />
+    <state x="436" y="115" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1592749208549">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="115" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1592749208549" />
+    <state x="176" y="0" key="CommitChangelistDialog2" timestamp="1593936334877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="176" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593936334877" />
+    <state x="499" y="102" key="FileChooserDialogImpl" timestamp="1592958122945">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="102" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592958122945" />
+    <state x="603" y="280" width="348" height="263" key="Github.ShareDialog" timestamp="1593936264769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="603" y="280" width="348" height="263" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1593936264769" />
+    <state x="309" y="50" key="Github.UntrackedFilesDialog" timestamp="1593936273512">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="309" y="50" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1593936273512" />
+    <state width="1483" height="496" key="GridCell.Tab.0.bottom" timestamp="1593042370438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="496" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593042370438" />
+    <state width="1483" height="496" key="GridCell.Tab.0.center" timestamp="1593042370438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="496" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593042370438" />
+    <state width="1483" height="496" key="GridCell.Tab.0.left" timestamp="1593042370438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="496" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593042370438" />
+    <state width="1483" height="496" key="GridCell.Tab.0.right" timestamp="1593042370438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="496" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593042370438" />
+    <state width="1483" height="483" key="GridCell.Tab.1.bottom" timestamp="1592750692041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="483" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592750692041" />
+    <state width="1483" height="483" key="GridCell.Tab.1.center" timestamp="1592750692041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="483" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592750692041" />
+    <state width="1483" height="483" key="GridCell.Tab.1.left" timestamp="1592750692040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="483" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592750692040" />
+    <state width="1483" height="483" key="GridCell.Tab.1.right" timestamp="1592750692041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="483" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592750692041" />
+    <state x="249" y="90" key="IDE.errors.dialog" timestamp="1592749613869">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="90" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1592749613869" />
+    <state x="186" y="0" key="Maven.ArtifactSearchDialog" timestamp="1592627507644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="186" y="0" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1592627507644" />
+    <state x="350" y="51" key="NewModule_or_Project.wizard" timestamp="1592749121751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="350" y="51" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1592749121751" />
+    <state x="157" y="0" key="SettingsEditor" timestamp="1592958149489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="157" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592958149489" />
+    <state x="423" y="91" width="696" height="655" key="StructurePopup" timestamp="1592627474661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="423" y="91" width="696" height="655" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1592627474661" />
+    <state x="398" y="114" width="739" height="596" key="find.popup" timestamp="1592885873587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="398" y="114" width="739" height="596" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1592885873587" />
+    <state x="0" y="0" key="new project wizard" timestamp="1592871161843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1592871161843" />
+    <state x="386" y="229" width="889" height="369" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1592923490966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="386" y="229" width="889" height="369" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1592923490966" />
+    <state x="341" y="183" width="840" height="1034" key="run.anything.popup" timestamp="1592643125456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="183" width="840" height="1034" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1592643125456" />
+    <state x="347" y="0" width="840" height="822" key="search.everywhere.popup" timestamp="1592886051941">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="0" width="840" height="822" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592886051941" />
+  </component>
+</project>
